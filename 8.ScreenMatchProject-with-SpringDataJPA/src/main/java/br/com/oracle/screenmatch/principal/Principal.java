@@ -4,6 +4,8 @@ import br.com.oracle.screenmatch.model.*;
 import br.com.oracle.screenmatch.repository.SerieRepository;
 import br.com.oracle.screenmatch.service.ConsumoApi;
 import br.com.oracle.screenmatch.service.ConverteDados;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
 
 import java.util.*;
 import java.util.stream.Collectors;
