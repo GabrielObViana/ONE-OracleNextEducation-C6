@@ -25,7 +25,7 @@ The Literalura Application is a Spring Boot console application designed to inte
    ```
 2. Navigate to the project directory:
    ```bash
-   cd LiterAlura
+   cd 12.LiterAluraProject
    ```
 3. Build the project using Maven:
    ```bash
