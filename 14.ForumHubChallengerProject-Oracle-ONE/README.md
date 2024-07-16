@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Diagrams](#diagrams)
   - [Entity Relationship Diagram](#entity-relationship-diagram)
   - [Sequence Diagram](#sequence-diagram)
 - [Prerequisites](#prerequisites)
@@ -13,7 +12,6 @@
 - [Running Tests](#running-tests)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 The Oracle One Forum Hub Challenger is a Spring Boot application designed to serve as a forum hub. This project is a challenge by Oracle aimed at fostering learning and development among developers. The application allows users to create, view, and participate in discussion threads.
@@ -21,9 +19,6 @@ The Oracle One Forum Hub Challenger is a Spring Boot application designed to ser
 ## Features
 - User registration and authentication
 - Create, read, update, and delete (CRUD) operations for forum topics
-
-## Diagrams
-Some Diagrams to clarify features.
 
 ### Entity Relationship Diagram
 ```mermaid
